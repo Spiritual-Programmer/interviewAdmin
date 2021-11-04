@@ -3,7 +3,7 @@ InterviewAdmin is a web application that allows users to create and display a li
 
 ### Installation
 
-1. Clone the repo into your desired location using `https://github.com/Spiritual-Programmer/interviewAdmin.git`
+1. Clone the repo into your desired location using `git clone https://github.com/Spiritual-Programmer/interviewAdmin.git`
 
 ### How to run our project
 
